@@ -277,5 +277,5 @@ async def 멜론차트(ctx):
         await ctx.send("이미 노래가 재생 중이라 노래를 재생할 수 없어요!")
 
 
-access_token = os.environ["ODcxNzU4NTI5MTA1NjQxNTUy.GbnacK.22bGVcslyzIBREU57W5Wy2v9Ax8cDM9p0qGdtc"]
+access_token = os.environ["]
 bot.run(access_token)
